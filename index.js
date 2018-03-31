@@ -314,4 +314,4 @@ Graph.prototype._findIndex = function (types, preferedIndex) {
   return result[0]
 }
 
-module.exports = Graph
+module.exports = { Graph }
